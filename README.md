@@ -36,6 +36,10 @@
 - Vuejs
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edumudu&show_icons=true&theme=dracula&locale=en&layout=compact" alt="edumudu" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edumudu&show_icons=true&theme=dracula&locale=en&layout=compact" alt="edumudu" />
+<p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=edumudu&show_icons=true&theme=dracula&locale=en" alt="edumudu" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edumudu&show_icons=true&theme=dracula&locale=en" alt="edumudu" />
+</p>
