@@ -65,6 +65,7 @@
     <br>
     [<img align="left" src=images/project-management/trello.svg height=30>](https://trello.com/)
     [<img align="left" src=images/project-management/slack.svg height=30>](https://slack.com/)
+    [<img align="left" src=images/project-management/sentry.svg height=30>](https://sentry.io/)
     <br>
     <br>
   - **Code Editor & Package Manager**
