@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eduardo Wesley</h1>
+<h3 align="center">A 19-year-old passionate developer from Brazil</h3>
 
-<!--
-**edumudu/edumudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Rust, AI, Tensorflow, docker, React Native, AWS**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **eduardowesley.re@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+- [codepen](https://codepen.io/edumudu)
+- [linkedin](https://linkedin.com/in/eduardo-wesley)
+- [stackoverflow](https://stackoverflow.com/users/12734929)
+- [codesandbox](https://codesandbox.com/edumudu)
+- [hackerrank](https://www.hackerrank.com/edumudu)
+- [instagram](https://instagram.com/eduardomudu)
+
+
+### Languages and Tools:
+
+
+- CSS
+- Cypress
+- Jest
+- Express
+- Git
+- HTML5
+- Javascript
+- Linux
+- Mysql
+- NodeJs
+- Nuxtjs
+- React
+- Sass
+- Tailwind
+- Typescript
+- Vuejs
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edumudu&show_icons=true&theme=dracula&locale=en&layout=compact" alt="edumudu" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edumudu&show_icons=true&theme=dracula&locale=en" alt="edumudu" />
