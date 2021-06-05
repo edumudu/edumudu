@@ -10,7 +10,7 @@
 - [codepen](https://codepen.io/edumudu)
 - [linkedin](https://linkedin.com/in/eduardo-wesley)
 - [stackoverflow](https://stackoverflow.com/users/12734929)
-- [codesandbox](https://codesandbox.com/edumudu)
+- [codesandbox](https://codesandbox.io/u/edumudu)
 - [hackerrank](https://www.hackerrank.com/edumudu)
 - [instagram](https://instagram.com/eduardomudu)
 
