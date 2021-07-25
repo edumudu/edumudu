@@ -80,5 +80,5 @@
 
 ## GitHub Stats 📊
 
-![Edumudu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=edumudu&show_icons=true&theme=dracula)
-![Edumudu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edumudu&layout=compact&theme=dracula)
+![Edumudu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=edumudu&show_icons=true&theme=dracula&hide_border=true)
+![Edumudu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edumudu&layout=compact&theme=dracula&hide_border=true)
