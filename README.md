@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Wesley</h1>
 <h3 align="center">A 19-year-old passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Web3, docker, React Native**
+- 🌱 I’m currently learning **Golang**
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.vue` `.ts` `.js`
 - 📫 How to reach me **eduardowesley.re@gmail.com**
 
