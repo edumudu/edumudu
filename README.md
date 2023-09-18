@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Wesley</h1>
-<h3 align="center">A 19-year-old passionate developer from Brazil</h3>
+<h3 align="center">A 21-year-old passionate developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Golang**
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.vue` `.ts` `.js`
