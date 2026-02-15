@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardo Wesley</h1>
-<h3 align="center">A 21-year-old passionate developer from Brazil</h3>
+<h3 align="center">A 23-year-old passionate developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Golang**
-- ⚙️ I daily use `.html` `.css` `.scss` `.json` `.vue` `.ts` `.js`
+- ⚙️ I daily use `.html` `.css` `.scss` `.tsx` `.ts` `.js`
 - 📫 How to reach me **eduardowesley.re@gmail.com**
 
 ### Connect with me:
@@ -51,31 +51,6 @@
   [<img align="left" src=images/utils/cypress.png height=30>](https://www.cypress.io/)
   <br>
   <br>
-  
-- **Tools**
-  - **Version Control & Issue Tracking**
-    <br>
-    <br>
-    [<img align="left" src=images/version-control/github.svg height=30>](https://github.com/)
-    [<img align="left" src=images/version-control/gitlab.svg height=30>](https://about.gitlab.com/)
-    <br>
-    <br>
-  - **Issue Tracking & Project Management**
-    <br>
-    <br>
-    [<img align="left" src=images/project-management/trello.svg height=30>](https://trello.com/)
-    [<img align="left" src=images/project-management/slack.svg height=30>](https://slack.com/)
-    [<img align="left" src=images/project-management/sentry.svg height=30>](https://sentry.io/)
-    <br>
-    <br>
-  - **Code Editor & Package Manager**
-    <br>
-    <br>
-    [<img align="left" src=images/tools/vs-code.svg height=30>](https://code.visualstudio.com/)
-    [<img align="left" src=images/tools/npm.svg height=30>](https://www.npmjs.com/)
-    [<img align="left" src=images/tools/yarn.svg height=30>](https://yarnpkg.com/)
-    <br>
-    <br>
 
 
 ## GitHub Stats 📊
